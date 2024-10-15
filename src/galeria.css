@@ -1,0 +1,20 @@
+#Obraz {
+  background-color: darkgreen;
+    color: white;
+    text-align: left;
+    padding: 20px;
+    margin: 10px;
+
+}
+#Obraz img {
+  align-items: center;
+  border: black solid 5px;
+  height: 300px;
+  width: 300px;
+}
+  table
+  {
+    width: 100%;
+    height: 100%;
+    table-layout: fixed;
+  }
